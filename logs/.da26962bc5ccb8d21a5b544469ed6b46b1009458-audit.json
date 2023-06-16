@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 10
+    },
+    "auditLog": "D:\\WorkSpace\\ACS\\Projects\\mpb-core-cv\\express_base\\logs\\.da26962bc5ccb8d21a5b544469ed6b46b1009458-audit.json",
+    "files": [
+        {
+            "date": 1686730873294,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-core-cv\\express_base\\logs\\2023_06_14-15.log",
+            "hash": "1393afa4d6ffb94d8919b659690585e4337fb2c513253b669835fa8821c607db"
+        },
+        {
+            "date": 1686734232427,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-core-cv\\express_base\\logs\\2023_06_14-16.log",
+            "hash": "7be24b361169026b89540079ab9584f34fc311e85bc3f1dd3bf94d47136b0058"
+        },
+        {
+            "date": 1686738353293,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-core-cv\\express_base\\logs\\2023_06_14-17.log",
+            "hash": "f8075e38c06e8bd4d2f3f947fb9b8ca72780ae7c62a6988ed654dd8011f09866"
+        },
+        {
+            "date": 1686740430988,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-core-cv\\express_base\\logs\\2023_06_14-18.log",
+            "hash": "a6851d9fe0b7bdfac05f1544ea7a0783ed9b7ba93ae56eacbc26a864216520c3"
+        },
+        {
+            "date": 1686788566772,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-core-cv\\express_base\\logs\\2023_06_15-07.log",
+            "hash": "c375ef65253f8233fffbc36b06b3a3c3b2eeea8bb76f2b6ae287138d11e8b5af"
+        }
+    ],
+    "hashType": "sha256"
+}

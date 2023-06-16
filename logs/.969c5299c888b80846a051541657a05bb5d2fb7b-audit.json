@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 10
+    },
+    "auditLog": "C:\\Users\\martg\\OneDrive\\Desktop\\express_base\\express_base\\logs\\.969c5299c888b80846a051541657a05bb5d2fb7b-audit.json",
+    "files": [
+        {
+            "date": 1686623139863,
+            "name": "C:\\Users\\martg\\OneDrive\\Desktop\\express_base\\express_base\\logs\\2023_06_13-09.log",
+            "hash": "6b8057430ef7da605dc8f35474f96ac1d674c30a5121c53e7b2d4cf7b996be02"
+        }
+    ],
+    "hashType": "sha256"
+}
