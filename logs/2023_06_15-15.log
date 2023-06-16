@@ -1,0 +1,12 @@
+[2023-06-15 15:54:28] [[31merror[39m] Error: MongoError: E11000 duplicate key error collection: manpowerbank.users index: _id_ dup key: { _id: 20230615155211.0 }
+    at register (D:\WorkSpace\ACS\Projects\mpb-web-proj\mpb-core-signup_login\controllers\account\account.controller.js:75:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2023-06-15 15:55:26] [[31merror[39m] Error: MongoError: E11000 duplicate key error collection: manpowerbank.users index: _id_ dup key: { _id: 20230615155211.0 }
+    at register (D:\WorkSpace\ACS\Projects\mpb-web-proj\mpb-core-signup_login\controllers\account\account.controller.js:75:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2023-06-15 15:57:40] [[31merror[39m] Error: MongoError: E11000 duplicate key error collection: manpowerbank.users index: _id_ dup key: { _id: 20230615155211.0 }
+    at register (D:\WorkSpace\ACS\Projects\mpb-web-proj\mpb-core-signup_login\controllers\account\account.controller.js:75:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2023-06-15 15:59:10] [[31merror[39m] Error: MongoError: E11000 duplicate key error collection: manpowerbank.users index: _id_ dup key: { _id: 20230615155211.0 }
+    at register (D:\WorkSpace\ACS\Projects\mpb-web-proj\mpb-core-signup_login\controllers\account\account.controller.js:75:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

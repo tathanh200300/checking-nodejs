@@ -1,0 +1,12 @@
+[2023-06-14 18:06:43] [[31merror[39m] Error: ReferenceError: string is not defined
+    at register (D:\WorkSpace\ACS\Projects\mpb-core-cv\express_base\controllers\account\account.controller.js:74:20)
+    at Layer.handle [as handle_request] (D:\WorkSpace\ACS\Projects\mpb-core-cv\express_base\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\WorkSpace\ACS\Projects\mpb-core-cv\express_base\node_modules\express\lib\router\route.js:137:13)
+    at middleware (D:\WorkSpace\ACS\Projects\mpb-core-cv\express_base\node_modules\express-validator\src\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2023-06-14 18:07:13] [[31merror[39m] Error: ReferenceError: str is not defined
+    at register (D:\WorkSpace\ACS\Projects\mpb-core-cv\express_base\controllers\account\account.controller.js:74:20)
+    at Layer.handle [as handle_request] (D:\WorkSpace\ACS\Projects\mpb-core-cv\express_base\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\WorkSpace\ACS\Projects\mpb-core-cv\express_base\node_modules\express\lib\router\route.js:137:13)
+    at middleware (D:\WorkSpace\ACS\Projects\mpb-core-cv\express_base\node_modules\express-validator\src\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

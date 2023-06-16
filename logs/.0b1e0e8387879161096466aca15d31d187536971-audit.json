@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 10
+    },
+    "auditLog": "D:\\WorkSpace\\ACS\\Projects-Backup\\mpb-core-cv\\logs\\.0b1e0e8387879161096466aca15d31d187536971-audit.json",
+    "files": [
+        {
+            "date": 1686794225701,
+            "name": "D:\\WorkSpace\\ACS\\Projects-Backup\\mpb-core-cv\\logs\\2023_06_15-08.log",
+            "hash": "c68abb8ec9a95057f4d20f46173efaed842d6eed882e457c15cbd05f14282e77"
+        },
+        {
+            "date": 1686851746379,
+            "name": "D:\\WorkSpace\\ACS\\Projects-Backup\\mpb-core-cv\\logs\\2023_06_16-00.log",
+            "hash": "c1ac99f8d8d3585bffe3013fe9ef1aba598894d7bc6f6fee81705536a3d1564c"
+        },
+        {
+            "date": 1686853531285,
+            "name": "D:\\WorkSpace\\ACS\\Projects-Backup\\mpb-core-cv\\logs\\2023_06_16-01.log",
+            "hash": "5eb796c5401d53013d35612acc9f98038b515353f64ac19b78ecb007b1f23b5f"
+        }
+    ],
+    "hashType": "sha256"
+}

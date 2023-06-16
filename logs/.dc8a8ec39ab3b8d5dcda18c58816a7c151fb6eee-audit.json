@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 10
+    },
+    "auditLog": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\.dc8a8ec39ab3b8d5dcda18c58816a7c151fb6eee-audit.json",
+    "files": [
+        {
+            "date": 1686796914743,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_15-09.log",
+            "hash": "3f5cbd31f542a796df97e0f0b4422caf0a80e77ce36249cdff660ddab5eacf00"
+        },
+        {
+            "date": 1686803562543,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_15-11.log",
+            "hash": "36759bb613bb7604fcf6fc168418acaf29f51886dc1f0bf866aa0900972744bc"
+        },
+        {
+            "date": 1686811106016,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_15-13.log",
+            "hash": "f72fc010b602749fa181c61e4c0f4d7595128b8bbeb40e09aa19a5be5dba0589"
+        },
+        {
+            "date": 1686812767112,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_15-14.log",
+            "hash": "6287281944f607ecc0e92b348799e05a90580983272abe15b2d4ff7a45422d4d"
+        },
+        {
+            "date": 1686816196629,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_15-15.log",
+            "hash": "4dc4dbd5ec61c8f39ceb4b17841e75c2ba98f2df4a17f53a50c710364253a60b"
+        },
+        {
+            "date": 1686819622688,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_15-16.log",
+            "hash": "026a6aafad8dffe3117950ba0ebf888ae4372670473326c2f171739f57a6ab45"
+        },
+        {
+            "date": 1686823205435,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_15-17.log",
+            "hash": "b87020ea3808032725a22b14f3f0b559a8c4553eb1fa1d3bf47b3b2f6b4c4861"
+        },
+        {
+            "date": 1686853703217,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_16-01.log",
+            "hash": "6e535d70a97050e69469fba3f6a6df1fc79e6efc7635f6c358caff4cdd8d77c3"
+        },
+        {
+            "date": 1686882282438,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_16-09.log",
+            "hash": "5045d4fa33cb7b78011e188c2ca23b8d7415456f0c61b3592eadb429bc4e99a1"
+        },
+        {
+            "date": 1686904828985,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_16-15.log",
+            "hash": "27867e02ae57dc9f02e0680f3d1e9db52b577c5123e461a857c7a8c644161945"
+        },
+        {
+            "date": 1686910740324,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_16-17.log",
+            "hash": "bfdd7bf238e40527460f487c193dae28ea3d4b29078547a7fe054040809a41b2"
+        },
+        {
+            "date": 1686926019593,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_16-21.log",
+            "hash": "7b8393e9aa6308d3a20049fe107c43126c8e17df181ec6419954bc60827044c5"
+        },
+        {
+            "date": 1686928832348,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_16-22.log",
+            "hash": "e685a1a0f5f2f68d833b5a6a2da82106a43ec4389748e801c48f8287d97dfb3b"
+        },
+        {
+            "date": 1686931207425,
+            "name": "D:\\WorkSpace\\ACS\\Projects\\mpb-web-proj\\mpb-core-signup_login\\logs\\2023_06_16-23.log",
+            "hash": "0cd4d7768a8e61004a9a7f4871b25a22606ad0932eb456f9cb4b673597982874"
+        }
+    ],
+    "hashType": "sha256"
+}
